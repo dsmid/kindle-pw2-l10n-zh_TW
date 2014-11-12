@@ -1,0 +1,12 @@
+#!/bin/bash
+
+mv "$1" "$1.tmp"
+while read
+do
+    if ! iconv -f utf8 -t ascii <<<$REPLY >/dev/null
+    then
+	echo -e "$REPLY"
+    fi
+done < "$1.tmp" > "$1"
+rm -f "$1.tmp"
+[ -s "$1" ] || rm -f "$1"

@@ -1,0 +1,98 @@
+完成
+下一项
+跳过
+开始关注
+取消关注
+{0,plural,=0 {{0,number,integer} 本书} one {{0,number,integer} 本书} other {{0,number,integer} 本书}} | {1,choice,0#{1,plural,=0 {{1,number,integer} 个好友} one {{1,number,integer} 个好友} other {{1,number,integer} 个好友}}|1000#999+ 个好友}
+{0,plural,=0 {{0,number,integer} 本书} one {{0,number,integer} 本书} other {{0,number,integer} 本书}} | {1,choice,0#{1,plural,=0 {{1,number,integer} 个粉丝} one {{1,number,integer} 个粉丝} other {{1,number,integer} 个粉丝}}|1000#999+ 个粉丝}
+正在加载…
+查无此人。
+您目前处于离线状态。
+点击此处连接到 WiFi 网络~~以查看最新动态。
+作者：{0}
+为本书评分
+我的评分
+无法找到此书评。
+关注书友
+关注一下知名书友以查看他们的书评和推荐{0,select, with_connect_message {，或从 Facebook 添加好友。} other {。}}
+添加好友 
+{0,plural,=0 {} one {已关注 {0,number,integer} 个新书友} other {已关注 {0,number,integer} 个新书友}}
+{0,plural,=0 {} one {已上架 {0,number,integer} 本书} other {已上架 {0,number,integer} 本书}}
+删除好友
+取消请求
++ 添加好友
++ 关注
+是否确定将{0}从您的好友列表中删除？删除好友不会向好友发送通知。
+添加评论…
+分享了一部电子书
+《{0}》（作者：{1}）
+评论了一条动态
+读完了
+分享了一条笔记
+分享了一条标注
+分享了一条动态
+编辑个人资料
+在此输入您的姓名。该名称会显示在您的亚马逊公开个人资料和 Goodreads 个人资料。
+姓名
+保存
+编辑【关于我】
+编辑【关于我】（已更改）
+如需更新您的名称，请登录到 Goodreads.com 然后选择【Edit Profile】。
+公开名称
+私下昵称
+关于我
+无法找到此书。
+已上架图书（{0,number,integer}）
+在读（{0,number,integer}）
+读过（{0,number,integer}）
+想读（{0,number,integer}）
+在读
+读过
+想读
+从书架上删除
+添加亚马逊图书到 Goodreads
+为您已购买的亚马逊图书评分或添加到书架，以将其列入 Goodreads。
+{0} 
+查看书评
+立即阅读
+在商店中查看
+在商店中搜索
+标记为：
+好友（{0}）
+关注 ({0})
+粉丝 ({0})
+已上架图书（{0}）
+在读（{0}）
+读过（{0}）
+想读（{0}）
+{0,plural, =0 {{0,number,integer} 本书} one {{0,number,integer} 本书} other {{0,number,integer} 本书}}
+{0,choice,0#{0,plural,=0 {{0,number,integer} 好友} one {{0,number,integer} 好友} other {{0,number,integer} 好友}}|1000#999+ 好友}
+{0,select,empty {点击此处关注推荐书友，或添加 Facebook 好友 } unknown {正在加载…} other {}}
+{0,select,empty {您目前没有粉丝。} unknown {正在加载…} other {}}
+{0,select,empty {尚未发布任何更新。~~点击此处关注推荐书友，或添加 Facebook 好友到 Goodreads } unknown {正在加载更新…} other {}}
+{0,select,empty {尚未有任何评论。第一个发表评论 } unknown {正在加载评论…} other {}}
+{0,select,empty {分享您的电子书、笔记和标注，与其他书友互动。} unknown {正在加载…} other {}}
+{0,select,empty {点击此处从您的亚马逊图书馆中添加电子书 } unknown {正在加载…} other {}}
+{0,select,empty {无最近更新。} unknown {正在加载…} other {}}
+{0,select,empty {尚未添加任何电子书。} unknown {正在加载…} other {}}
+{0,select,empty {点击此处第一个将{1}列为好友 } empty_pending_friend {暂无好友。} unknown {正在加载…} other {}}
+{0,select,empty {尚未关注任何书友。} unknown {正在加载…} other {}}
+{0,select,empty {第一个关注{1} } empty_existing_friend {暂无粉丝。} unknown {正在加载…} other {}}
+{0,select,empty {您目前没有任何好友。~~点击此处关注推荐书友，或添加 Facebook 好友 } unknown {正在加载好友…} other {}}
+{0,select,empty {您尚未关注任何书友。~~点击此处关注推荐书友，或添加 Facebook 好友 } unknown {正在加载关注…} other {}}
+{0,select,empty {您目前没有粉丝。} unknown {正在加载粉丝…} other {}}
+{0,select,empty {目前没有新书友可关注，请稍后重试。} facebook_not_connected {目前没有新书友可关注。您可以添加 Facebook 好友到 Goodreads } unknown {正在加载推荐书友…} other {}}
+{0,select,empty {目前没有书评，请稍候重试。} unknown {正在加载书评…} other {}}
+{0,select,empty {您尚未将任何书上架。查看您的亚马逊图书并添加到 Goodreads } unknown {正在加载图书…} other {}}
+{0,select,empty {您的图书馆中暂无任何书目。~~看看您的好友在读什么 } unknown {正在加载亚马逊图书…} other {}}
+{0,select,empty {您的图书馆中暂无任何书目。您可以稍后添加。} unknown {正在加载亚马逊图书…} other {}}
+Facebook 电子邮件
+Facebook 密码
+隐藏密码
+Goodreads 电子邮件
+Goodreads 密码
+关联之后，Goodreads 将有权访问您的公开个人资料、好友列表、电子邮件地址和 Facebook 的赞过的内容。另外，Goodreads 能够以您的名义向您的好友发布内容。继续下一步表示您同意 Goodreads 的服务条款和隐私政策。
+在 Facebook 上看看您的好友在读什么并分享您的阅读动态。
+关联之后，Goodreads 将有权访问您的公开个人资料、好友列表、电子邮件地址和 Facebook 的赞过的内容。另外，Goodreads 能够以您的名义向您的好友发布内容。
+欢迎来到全球最大的书友网络，您可以在这里找到阅读推荐，寻觅您喜爱的图书并与您的好友分享。
+新手入门

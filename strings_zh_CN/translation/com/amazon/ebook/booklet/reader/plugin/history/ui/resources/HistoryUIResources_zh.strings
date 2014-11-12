@@ -1,0 +1,2 @@
+{0,select, location {返回位置 #{1}} page {返回第 {1} 页} other {返回{1}}}
+{0,select, location {前往位置 #{1}} page {前往第 {1} 页} other {前往{1}}}

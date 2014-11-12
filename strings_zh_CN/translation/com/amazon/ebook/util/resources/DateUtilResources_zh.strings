@@ -1,0 +1,12 @@
+{0,choice,0#{1,plural,=0{{1,number,0} 分钟} one{{1,number,0} 分钟} other{{1,number,0} 分钟}} {2,plural,=0{{2,number,00} 秒} one{{2,number,00} 秒} other{{2,number,00} 秒}}|0<{0,plural,=0{} one{{0,number,0} 小时} other{{0,number,0} 小时}} {1,plural,=0{{1,number,0} 分钟} one{{1,number,0} 分钟} other{{1,number,0} 分钟}} {2,plural,=0{{2,number,00} 秒} one{{2,number,00} 秒} other{{2,number,00} 秒}}}
+{6,plural,=0{{6,number,integer} 秒} one{{6,number,integer} 秒} other{{6,number,integer} 秒}}
+{5,plural,=0{{5,number,integer} 分钟} one{{5,number,integer} 分钟} other{{5,number,integer} 分钟}} {6,plural,=0{{6,number,integer} 秒} one{{6,number,integer} 秒} other{{6,number,integer} 秒}}
+{4,plural,=0{{4,number,integer} 小时} one{{4,number,integer} 小时} other{{4,number,integer} 小时}}, {5,plural,=0{{5,number,integer} 分钟} one{{5,number,integer} 分钟} other{{5,number,integer} 分钟}} {6,plural,=0{{6,number,integer} 秒} one{{6,number,integer} 秒} other{{6,number,integer} 秒}}
+{3,plural,=0{{3,number,integer} 天} one{{3,number,integer} 天} other{{3,number,integer} 天}}
+{2,plural,=0{{2,number,integer} 月} one{{2,number,integer} 月} other{{2,number,integer} 月}}
+{1,plural,=0{{1,number,integer} 年} one{{1,number,integer} 年} other{{1,number,integer} 年}}
+{4,plural,=0{{4,number,integer} 小时} one{{4,number,integer} 小时} other{{4,number,integer} 小时}} {5,plural,=0{{5,number,integer} 分钟} one{{5,number,integer} 分钟} other{{5,number,integer} 分钟}} {6,plural,=0{{6,number,integer} 秒} one{{6,number,integer} 秒} other{{6,number,integer} 秒}}
+{6,plural,=0{0分} one{0分} other{0分}}
+{5,plural,=0{{5,number,integer}分} one{{5,number,integer}分} other{{5,number,integer}分}}
+{4,plural,=0{{4,number,integer}时} one{{4,number,integer}时} other{{4,number,integer}时}} {5,plural,=0{{5,number,integer}分} one{{5,number,integer}分} other{{5,number,integer}分}}
+{0,select,year {{1,plural,=0 {今年} one {一年前} other { {1,number,integer} 年前}}} month {{2,plural,=0 {本月} one {一个月前} other { {2,number,integer} 个月前}}}  week {{3,plural,=0 {本周} one {一周前} other { {3,number,integer} 周前}}} day {{4,plural,=0 {今天} one {昨天} other { {4,number,integer} 天前}}} hour {{5,plural,=0 {刚刚} one { 1 小时前} other { {5,number,integer} 小时前}}} minute {{6,plural,=0 {刚刚} one { 1 分钟前} other { {6,number,integer} 分钟前}}} now {刚刚} other {最近}}

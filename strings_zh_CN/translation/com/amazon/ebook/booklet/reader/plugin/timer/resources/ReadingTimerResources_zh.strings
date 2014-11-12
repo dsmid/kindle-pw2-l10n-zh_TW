@@ -1,0 +1,20 @@
+打开阅读定时器
+关闭阅读定时器
+正在更新…
+了解阅读速度…
+了解阅读速度({0, number, percent})
+章节
+第 {0} 页
+第 {0} 页/共 {1} 页
+位置 #{0}/{1}
+{0, plural,=0 {章节完毕} one {本章还剩：{1}} other {本章还剩：{1}}}
+{0, plural,=0 {全书完毕} one {全书还剩：{1}} other {全书还剩：{1}}}
+{0,select,TimeLeftInGoal {{1, plural,=0 {目标已达成} one {还需 {1,number,integer} 分钟方可达成阅读目标} other {还需 {1,number,integer} 分钟方可达成阅读目标}}} GoalReached {目标已达成} other {{1, plural,=0{目标已达成} one{每日目标已于 {1,number,integer} 分钟前达成} other{每日阅读目标已于 {1,number,integer} 分钟前达成}}}}
+重置阅读时间
+阅读进度
+选择阅读进度
+书中位置
+书内页码
+图书剩余时间
+章节剩余时间
+无

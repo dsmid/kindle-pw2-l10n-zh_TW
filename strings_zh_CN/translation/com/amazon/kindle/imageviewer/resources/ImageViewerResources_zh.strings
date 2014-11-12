@@ -1,0 +1,2 @@
+{0,choice,0#第 1 页/共 1 页|1#第 {1,number,integer} 页/共 {2,number,integer} 页}
+图片

@@ -1,0 +1,16 @@
+msgid "Menu"
+msgstr ""
+
+msgid "_Cancel"
+msgstr "_"
+
+msgid "_OK"
+msgstr "_"
+
+msgctxt "gtk menu item height"
+msgid "52"
+msgstr "52"
+
+msgctxt "gtk menu title height"
+msgid "55"
+msgstr "55"

@@ -1,0 +1,37 @@
+注册您的 Kindle
+请输入您的亚马逊帐户信息。
+登录名
+密码
+注册
+注册帮助
+您输入的登录名和密码与任何亚马逊帐户记录均不匹配。请确保您已正确输入与您的亚马逊帐户关联的登录名 (电子邮件地址或电话号码)。详情请联系 Kindle 客服 (www.kindle.com/support)。
+取消
+重试
+无法连接
+注册您的 Kindle 时出错，请稍后重试。
+正在注册您的 Kindle…
+注册失败
+隐藏密码
+注销您的 Kindle
+即将从您的亚马逊帐户注销您的 Kindle，部分功能将无法使用；一些设置，如云端收藏夹视图设置可能无法保存。注销后，您可以将 Kindle 注册至其他亚马逊帐户。~~是否确定注销？
+注销
+正在注销您的 Kindle…
+注销您的设备时出错，请稍后重试。
+确定
+设备信息
+<html><b>WiFi MAC 地址：</b>&nbsp;{1}<br/><b>序列号：</b>&nbsp;{2}<br/><b>网络能力：</b>&nbsp;{3}<br/><b>固件版本：</b>&nbsp;{4}<br/><b>可用空间：</b>&nbsp;{0,choice, -1#未知|0#{0,number,integer} MB 可用}{5,select, 0 {} 1 {<br/><b>策略编号：</b>&nbsp;{6}} other{}}</html>
+不可用
+设备名称
+为 Kindle 命名以个性化您的设备，该名称会在【主页】显示。
+保存
+您的 Kindle 目前无法连接。请确保您的 Kindle 在无线信号覆盖范围内，然后重试。如果问题仍然存在，请从【设置】界面进入【菜单】，重启设备后重试。
+{0,select, facebook {取消 Facebook 关联} twitter {取消 Twitter 关联} goodreads {取消 Goodreads 关联} weibo {取消新浪微博关联} other {}}
+您的亚马逊帐户将不再关联到您的 Facebook 帐户。
+您的亚马逊帐户将不再关联到您的 Twitter 帐户。
+您的亚马逊帐户将不再关联到您的 Goodreads 帐户。
+您的亚马逊帐户将不再关联到您的微博帐户。
+取消关联
+请访问 goodreads.com/settings 以取消 Facebook 帐户与 Goodreads 帐户的关联
+关闭
+名字
+性别

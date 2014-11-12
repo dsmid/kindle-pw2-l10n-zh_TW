@@ -1,0 +1,2 @@
+{0} 人标注
+{1}, {0,plural,=0 {没有其他} one {另外 1 项} other {另外 {0,number,integer} 项}}

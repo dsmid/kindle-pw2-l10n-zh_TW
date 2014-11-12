@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets" 
+        xmlns:kindle="http://kindle.amazon.com/ns/widget-extensions"
+    id="com.lab126.adviewer"
+    version="1.0"
+    viewmodes="application">
+    
+    <name xml:lang="en">Special Offer</name>
+    <description xml:lang="en">Special Offer</description>
+    
+    <name xml:lang="en-GB">Special OfferViewer</name>
+    <description xml:lang="en-GB">Special Offer</description>
+
+    <name xml:lang="de">Spezialangebot</name>
+    <description xml:lang="de">Spezialangebot</description>
+
+    <name xml:lang="es">Oferta especial</name>
+    <description xml:lang="es">Oferta especial</description>
+
+    <name xml:lang="fr">Offre spéciale</name>
+    <description xml:lang="fr">Offre spéciale</description>
+
+    <name xml:lang="it">Offerta speciale</name>
+    <description xml:lang="it">Offerta speciale</description>
+
+    <name xml:lang="pt">Oferta especial</name>
+    <description xml:lang="pt">Oferta especial</description>
+
+    <name xml:lang="ja">スペシャルオファー</name>
+    <description xml:lang="ja">スペシャルオファー</description>
+
+    <name xml:lang="zh">特惠</name>
+    <description xml:lang="zh">特惠</description>
+
+    <content src="index.html" />
+    
+    <!-- App Configuration -->    
+    <!-- request for HTTP headers -->
+    <kindle:network>
+        <kindle:asset key="user-agent" value="kindle://device-type" />
+    </kindle:network>
+    
+    <!-- request for persistent cookie jar with x-main & x-fsn pre loaded -->
+    <kindle:cookiejar>
+        <kindle:asset key="persistent" value="true"/>
+        <kindle:asset key="useDeviceCookies" value="true"/>
+    </kindle:cookiejar>
+
+    <kindle:gestures>
+        <kindle:param name="tap" value="yes"/>
+        <kindle:param name="swipe" value="yes"/>
+    </kindle:gestures>
+
+    
+    <!-- The "http://kindle.amazon.com/apis" feature is used to control the JS APIs that will be available to a widget. -->
+    <feature name="http://kindle.amazon.com/apis" required="true">
+        <param name="appmgr" value="yes"/>
+        <param name="net" value="yes"/>
+        <param name="gestures" value="yes"/>
+        <param name="chrome" value="yes"/>
+        <param name="dev" value="yes"/>
+        <param name="messaging" value="yes"/>
+        <param name="uitest" value="yes"/>
+    </feature>
+
+    <kindle:messaging>
+        <kindle:app name="com.lab126.adManager" value="yes" />
+        <kindle:app name="com.lab126.pillow" value="yes" />
+    </kindle:messaging>
+
+    <kindle:settings>                                           
+        <kindle:setting name="saveContext" value="no"/>
+        <kindle:setting name="enableW3CStd" value="yes" />
+    </kindle:settings>
+</widget>

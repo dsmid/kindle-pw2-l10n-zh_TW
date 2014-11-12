@@ -1,0 +1,5 @@
+msgid "todo.message.checking"
+msgstr ""
+
+msgid "todo.message.nonewitems"
+msgstr ""

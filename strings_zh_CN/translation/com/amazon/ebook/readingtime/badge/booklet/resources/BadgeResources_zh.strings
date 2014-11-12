@@ -1,0 +1,58 @@
+徽章
+电子书
+活动
+成就
+已赢取（{0,number,integer}）
+挑战（{0,number,integer}）
+重置徽章
+小有成就 {0,choice,0#|2#({0,number,integer})}
+一介书虫 {0,choice,0#|2#({0,number,integer})}
+超级书虫 {0,choice,0#|2#({0,number,integer})}
+精英书虫 {0,choice,0#|2#({0,number,integer})}
+凌云壮志 {0,choice,0#|2#({0,number,integer})}
+蜻蜓点水 {0,choice,0#|2#({0,number,integer})}
+初出茅庐 {0,choice,0#|2#({0,number,integer})}
+才高八斗 {0,choice,0#|2#({0,number,integer})}
+满腹经纶 {0,choice,0#|2#({0,number,integer})}
+博览群书 {0,choice,0#|2#({0,number,integer})}
+读完一本书以获得此成就。
+达成每日阅读目标。~~{0, select, false{如果您希望赢得此成就，请让父母为您设置每日阅读目标。} other{今天至少阅读 {1, plural, =0{{1, number, integer} 分钟} one{{1, number, integer} 分钟} other{{1, number, integer} 分钟}}。}}
+连续 7 天达成每日阅读目标。~~您已经连续 {0, plural, =0{{0, number, integer} 天完成每日阅读目标。} one{{0, number, integer} 天完成每日阅读目标。} other{{0, number, integer} 天完成每日阅读目标。}} {1, plural, =0{再坚持 {1, number, integer} 天！} one{再坚持 {1, number, integer} 天！} other{再坚持 {1, number, integer} 天！}}
+连续 30 天达成每日阅读目标。~~您已经连续 {0, plural, =0{{0, number, integer} 天完成每日阅读目标。} one{{0, number, integer} 天完成每日阅读目标。} other{{0, number, integer} 天完成每日阅读目标。}} {1, plural, =0{再坚持 {1, number, integer} 天！} one{再坚持 {1, number, integer} 天！} other{再坚持 {1, number, integer} 天！}}
+超越每日阅读目标。~~{0, select, false{如果您希望赢得此成就，请让父母为您设置每日阅读目标。} other{今天至少阅读 {1, plural, =0{{1, number, integer} 分钟} one{{1, number, integer} 分钟} other{{1, number, integer} 分钟}}。}}
+阅读 50 页。~~您已阅读 {0, number, integer}/50 页。
+阅读 100 页。~~您已阅读 {0, number, integer}/100 页。
+阅读 500 页。~~您已阅读 {0, number, integer}/500 页。
+阅读 1000 页。~~您已阅读 {0, number, integer}/1000 页。
+阅读 10,000 页。~~您已阅读 {0, number, integer}/10,000 页。
+恭喜，您读完了一本书。
+达成每日阅读目标。~~恭喜，您已达成每日阅读目标。
+超额完成每日阅读目标。~~恭喜，您已超额完成每日阅读目标。
+阅读 50 页。~~恭喜，您已阅读 50 页。
+阅读 100 页。~~恭喜，您已阅读 100 页。
+阅读 500 页。~~恭喜，您已阅读 500 页。
+阅读 1000 页。~~恭喜，您已阅读 1000 页。
+阅读 10,000 页。~~恭喜，您已阅读 10,000 页。
+◄
+►
+{0} ▼
+时间
+{0}：
+进度
+总阅读时间
+平均阅读时间
+查词
+无标题
+无图片
+{0, select, true{{1, select, true{请让家长为您的图书馆添加图书。} other{请前往主页，选择电子书然后开始阅读，别忘了时常回到本页面查看您的阅读进度！}}} other{{1, select, true{添加电子书到子女的图书馆供{2, select, Male{其} other{其}}阅读。} other{您的子女尚未开始阅读{2, select, Male{其} other{其}}图书馆中的电子书。}}}}
+{0,select,true{{1,plural,=0{分钟阅读时间} one{分钟阅读时间} other{分钟阅读时间}}} other{{1,plural,=0{小时阅读时间} one{小时阅读时间} other{小时阅读时间}}}}
+{0,plural,=0{个已查询字词} one{个已查询字词} other{个已查询字词}}
+{0,plural,=0{项成就} one{项成就} other{项成就}}
+{0,plural,=0{本已读书目} one{本已读书目} other{本已读书目}}
+{0,select,DAILY{{1,select,goalNotMet{{3,plural,=0{分钟后达成每日目标} one{分钟后达成每日目标} other{分钟后达成每日目标}}} goalMet{{2,select,0{{5, select, false{无动态} other{未设定目标}}} other{已达成每日目标}}} goalOverMet{{3,plural,=0{分钟超额完成} one{分钟超额完成} other{分钟超额完成}}} other{}}} other{{3,plural,=0{个已达成每日目标} one{个已达成每日目标} other{个已达成每日目标}}}}
+{0,plural,=0{页阅读量} one{页阅读量} other{页阅读量}}
+{0}的进度
+本月
+总共
+日
+月

@@ -1,0 +1,22 @@
+添加/删除内容
+重命名
+删除
+仅在收藏夹视图显示
+在所有视图中均显示
+编辑发音
+总共：{0,plural,=0 {无内容} one {{0,number,integer} 项内容} other {{0,number,integer} 项内容} }
+云端：{0,plural,=0 {无内容} one {{0,number,integer} 项内容} other {{0,number,integer} 项内容} }
+本机：{0,plural,=0 {无内容} one {{0,number,integer} 项内容} other {{0,number,integer} 项内容} }
+{0,plural,=0 {正在学习 {0,number,integer} 个生词} one {正在学习 {0,number,integer} 个生词} other {正在学习 {0,number,integer} 个生词} }
+{0,plural,=0 {已掌握 {0,number,integer} 个生词} one {已掌握 {0,number,integer} 个生词} other {已掌握 {0,number,integer} 个生词} }
+添加到【主页】
+日期：
+未知
+配音：
+关闭生词本
+关于生词本
+编辑子女个人资料
+管理 FreeTime 内容
+查看成就
+了解详情
+关闭 FreeTime

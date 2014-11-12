@@ -1,0 +1,19 @@
+正在加载…
+无法找到此更新。
+动态更新已删除。
+请求失败
+《{0}》（作者：{1}）
+{0,select, amazon {该评论已被亚马逊于{1}删除。} comment_creator {该评论已被作者于{1}删除。} other {该评论被删除于{1}。}}
+无法找到此评论。
+{0}添加了一条评论
+{0,select, BookRating {'{0}'赞了一条评分} BookStatusReading {'{0}'赞了一条更新} BookStatusRead {'{0}'赞了一条更新} BookStatusWantToRead {'{0}'赞了一条更新} Comment {'{0}'赞了一条评论} GoodreadsReview {'{0}'赞了一则书评} Like {'{0}'赞了一条评论} Note {'{0}'赞了一条笔记} QuoteWithNote {'{0}'赞了一句名言} Quote {'{0}'赞了一句名言} ReadingProgressWithNote {'{0}'赞了一条更新} ReadingProgress {'{0}'赞了一条更新} Recommend {'{0}'赞了一个推荐} other {'{0}'赞了一条更新}}
+{0}在读~~{1}
+{0}评了 {1}~~{2}
+{0}写了一则书评
+{0}分享了一条笔记
+{0}分享了一句名言
+{0,select, BookStatusReading {'{0}'在读~~'{1}'} BookStatusRead {'{0}'读过~~'{1}'} other {'{0}'想读~~'{1}'}}
+{0}推荐给{1}~~{2}
+添加评论
+评论
+同时分享到：

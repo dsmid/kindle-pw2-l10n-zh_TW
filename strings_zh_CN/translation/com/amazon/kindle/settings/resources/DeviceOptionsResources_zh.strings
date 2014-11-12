@@ -1,0 +1,17 @@
+设备选项
+设备密码
+设置密码以保护 Kindle 中的内容。
+未启用
+已启用
+前置阅读灯
+调整您的 Kindle 亮度和夜间照明。
+家长监护
+{0, select, true {设置 Kindle FreeTime 并限制访问{1, select, true {体验版网页浏览器、Kindle 商店、云端和 Goodreads on Kindle。} other {体验版网页浏览器、Kindle 商店和云端。}}} other {限制访问{1, select, true {体验版网页浏览器、Kindle 商店、云端和 Goodreads on Kindle。} other {体验版网页浏览器、Kindle 商店和云端。}}}}
+本机为受控设备，家长监护已锁定。详情请联系：{0}。
+家长监护已锁定
+设备时间
+为您的 Kindle 设置本地时间。
+个性化您的 Kindle
+管理您设备的名称、个人信息、推荐内容和查看您的〖发送至 Kindle〗电子邮件地址。
+语言和字典
+管理您的 Kindle 语言、键盘和字典。

@@ -1,0 +1,22 @@
+名字
+出生年月
+取消
+确定
+性别
+{0, select, male {男孩} female {女孩} other {男孩}}
+{0, select, male {{1}的图书馆} female {{1}的图书馆} other {{1}的图书馆}}
+{0, plural, =0 {{0,number,integer} 本书} one {{0,number,integer} 本书} other {{0,number,integer} 本书}}
+访问成就
+允许您的子女查看成就报告。
+无限制访问维基百科
+每日阅读目标
+设置子女每日指定阅读分钟数。
+删除个人资料
+删除后将丢失所有进度和成就。同时，该个人资料在其他设备上将无法使用。是否确定删除{0, select, male {<em>{1}</em>的个人资料} female {<em>{1}</em>的个人资料} other {<em>{1}</em>的个人资料}}？
+删除
+无内容
+{0, select, male {您尚未添加任何内容到{1}的 FreeTime。} female {您尚未添加任何内容到{1}的 FreeTime。} other {您尚未添加任何内容到{1}的 FreeTime。}}
+忽略
+添加内容
+完成
+移除后将丢失全部进度和成就，但可以在其他设备上使用。是否确定从本机删除个人资料<em>{0}</em>？

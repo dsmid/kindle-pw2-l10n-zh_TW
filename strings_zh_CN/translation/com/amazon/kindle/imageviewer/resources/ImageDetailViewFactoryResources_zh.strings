@@ -1,0 +1,4 @@
+删除该图片文件夹
+删除该图片包
+删除该图片
+{0,choice,0#无内容 | 1#{0,number,integer} 项内容 | 2#{0,number,integer} 项内容}

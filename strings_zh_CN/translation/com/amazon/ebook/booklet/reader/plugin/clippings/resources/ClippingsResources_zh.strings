@@ -1,0 +1,6 @@
+{0,select, location {您在位置 #{1} 的书签} page {您在第 {1} 页（位置 #{2}）的书签} pdf {您在第 {1} 页的书签}other {您在{1}的书签}}
+{0,select,location {您在位置 #{1} 的笔记}page {您在第 {1} 页（位置 #{2}）的笔记}pdf {您在第 {1} 页的笔记}other {您在{1}的笔记}}
+{0,select,location {您在位置 #{1}的标注}page {您在第 {1} 页（位置 #{2}）的标注}pdf {您在第 {1} 页的标注}other {您在{1}的标注}}
+{0,select,location {在位置 #{1} 的文章剪切}page {在第 {1} 页（位置 #{2}）的文章剪切}pdf {第 {1} 页的文章剪切}other {{1}的文章剪切}}
+{3,plural,=0 {} other {{0}}} <{1,select,passwordProtected {本内容受密码保护} noPublisher {您已达到本内容的剪贴上限} other {您已达到出版方设置的剪贴上限，{2}}}>
+{0} {1,choice,0# |1#({2})}$$~~- {3} | 添加于 {4,date,full} {4,time,medium}$$~~$$~~{5}$$~~==========$$~~

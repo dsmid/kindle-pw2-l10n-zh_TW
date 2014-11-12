@@ -1,0 +1,14 @@
+学习中（{0,number,integer}）
+已掌握（{0,number,integer}）
+{0,select,true {学习中（{1,number,integer}）} false {学习中（{1,number,integer}）} other {}}
+{0,select,true {已掌握（{1,number,integer}）} false {已掌握（{1,number,integer}）} other {}}
+单词
+电子书
+▶
+
+
+ 任意图书
+已掌握单词：{0}
+单词卡
+关于生词本
+生词本

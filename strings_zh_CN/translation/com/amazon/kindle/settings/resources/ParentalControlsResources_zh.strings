@@ -1,0 +1,7 @@
+{0, select, true {为您的子女打造个性化个人资料。FreeTime 自动阻止访问体验版网页浏览器、Kindle 商店、Goodreads on Kindle 和维基百科。} other {为您的子女打造个性化个人资料。FreeTime 自动阻止访问体验版网页浏览器、Kindle 商店和维基百科。}}
+限制
+{0, select, true {限制访问体验版网页浏览器、Kindle 商店、Goodreads on Kindle 和维基百科。} other {限制访问体验版网页浏览器、Kindle 商店和维基百科。}}
+更改密码
+更改家长监护密码。
+家长监护
+{0, select, true {已启用} other {已停用}}

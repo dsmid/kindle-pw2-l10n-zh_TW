@@ -1,0 +1,8 @@
+语言和字典
+语言
+为您的 Kindle 设置语言。
+键盘
+为不同语言添加相应键盘。
+{0,plural, =0 {没有键盘} one {{0, number, integer} 副键盘} other {{0, number, integer} 副键盘}}
+字典
+为每一种语言设置默认字典。
