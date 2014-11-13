@@ -5,6 +5,7 @@
     "candidate_border" : 5,
     "candidate_separation" : 26,
     "candidate_height" : 49,
+    "candidate_list_can_expand" : true,
 
     "keyboard_height" : 303,
     "keyboard_x_gap" : 4,
