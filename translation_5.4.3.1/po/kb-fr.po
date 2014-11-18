@@ -11,4 +11,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "French"
-msgstr "French"
+msgstr "法語"
