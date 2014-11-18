@@ -11,4 +11,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Simplified-Chinese"
-msgstr "Chinese (Simplified)"
+msgstr "簡體中文"
