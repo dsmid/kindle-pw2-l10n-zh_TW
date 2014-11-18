@@ -1,2 +1,2 @@
 msgid "cp.fonts.updated"
-msgstr "Fonts Updated"
+msgstr "字體已更新"
