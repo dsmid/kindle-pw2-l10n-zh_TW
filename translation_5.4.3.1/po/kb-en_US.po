@@ -11,4 +11,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "English-US"
-msgstr "English (United States)"
+msgstr "英語 (美國)"
