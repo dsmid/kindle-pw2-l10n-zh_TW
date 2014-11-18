@@ -1,11 +1,11 @@
 msgid "Menu"
-msgstr "Menu"
+msgstr "選單"
 
 msgid "_Cancel"
-msgstr "_Cancel"
+msgstr "_取消"
 
 msgid "_OK"
-msgstr "_OK"
+msgstr "_確定"
 
 msgctxt "gtk menu item height"
 msgid "52"
