@@ -1,2 +1,2 @@
 msgid "dpm.default.contactinfo"
-msgstr "Your System Administrator"
+msgstr "您的系統管理員"
