@@ -11,4 +11,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Spanish"
-msgstr "Spanish"
+msgstr "西班牙語"
