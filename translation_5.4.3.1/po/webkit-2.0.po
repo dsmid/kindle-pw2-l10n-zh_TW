@@ -5,106 +5,106 @@ msgstr ""
 "POT-Creation-Date: 2010-02-25 15:53-0300\n"
 "PO-Revision-Date: 2009-07-14 02:01+0100\n"
 "Last-Translator: Bruce Cowan <bcowan@fastmail.co.uk>\n"
-"Language-Team: British English <en@li.org>\n"
+"Language-Team: Chinese (Traditional) <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " files"
-msgstr " files"
+msgstr " 檔案"
 
 msgid "(None)"
-msgstr "(None)"
+msgstr "(無)"
 
 msgid "A bitmask representing the state of the modifier keys"
-msgstr "A bitmask representing the state of the modifier keys"
+msgstr "代表修飾鍵狀態的位元遮罩"
 
 msgid "A username and password are being requested by the site %s"
-msgstr "A username and password are being requested by the site %s"
+msgstr "%s 需要輸入帳號與密碼"
 
 msgid "Alternate Title"
-msgstr "Alternate Title"
+msgstr "可選換的標題"
 
 msgid "An associated WebKitWebSettings instance"
-msgstr "An associated WebKitWebSettings instance"
+msgstr "關於 WebKitWebSettings 的範本"
 
 msgid "Auto Load Images"
-msgstr "Auto Load Images"
+msgstr "自動載入圖片"
 
 msgid "Auto Shrink Images"
-msgstr "Auto Shrink Images"
+msgstr "自動縮小圖片"
 
 msgid "Automatically shrink standalone images to fit."
-msgstr "Automatically shrink standalone images to fit."
+msgstr "自動縮小單張照片至適當大小。"
 
 msgid "Button"
-msgstr "Button"
+msgstr "按鈕"
 
 msgid "Check Spelling While _Typing"
-msgstr "Check Spelling While _Typing"
+msgstr "輸入時檢查拼寫(_T)"
 
 msgid "Check _Grammar With Spelling"
-msgstr "Check _Grammar With Spelling"
+msgstr "檢查拼寫時也檢查語法(_G)"
 
 msgid "Choose File"
-msgstr "Choose File"
+msgstr "選擇檔案"
 
 msgid "Cop_y Image"
-msgstr "Cop_y Image"
+msgstr "複製圖片(_Y)"
 
 msgid "Copy Link Loc_ation"
-msgstr "Copy Link Loc_ation"
+msgstr "複製連結位置(_A)"
 
 msgid "Copy target list"
-msgstr "Copy target list"
+msgstr "複製目標清單"
 
 msgid "Current Size"
-msgstr "Current Size"
+msgstr "目前大小"
 
 msgid "Cursive Font Family"
-msgstr "Cursive Font Family"
+msgstr "草寫字體"
 
 msgid "Custom Encoding"
-msgstr "Custom Encoding"
+msgstr "自訂編碼"
 
 msgid "Default Encoding"
-msgstr "Default Encoding"
+msgstr "預設編碼"
 
 msgid "Default Font Family"
-msgstr "Default Font Family"
+msgstr "預設字體"
 
 msgid "Default Font Size"
-msgstr "Default Font Size"
+msgstr "預設字體大小"
 
 msgid "Default Monospace Font Size"
-msgstr "Default Monospace Font Size"
+msgstr "預設等寬字體大小"
 
 msgid "Destination URI"
-msgstr "Destination URI"
+msgstr "目的 URI"
 
 msgid "Determines the current progress of the download"
-msgstr "Determines the current progress of the download"
+msgstr "顯示目前下載進度"
 
 msgid "Determines the current status of the download"
-msgstr "Determines the current status of the download"
+msgstr "顯示目前下載狀況"
 
 msgid "Editable"
-msgstr "Editable"
+msgstr "可編輯"
 
 msgid "Enable Developer Extras"
-msgstr "Enable Developer Extras"
+msgstr "開啟開發者附加元件"
 
 msgid "Enable JavaScript profiling"
-msgstr "Enable JavaScript profiling"
+msgstr "開啟 JavaScript 摘要"
 
 msgid "Enable Plugins"
-msgstr "Enable Plugins"
+msgstr "開啟外掛"
 
 msgid "Enable Private Browsing"
-msgstr "Enable Private Browsing"
+msgstr "開啟私密瀏覽"
 
 msgid "Enable Scripts"
-msgstr "Enable Scripts"
+msgstr "開啟腳本"
 
 msgid "Enable embedded plugin objects."
 msgstr "Enable embedded plugin objects."
