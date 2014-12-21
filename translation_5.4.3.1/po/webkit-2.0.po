@@ -107,40 +107,40 @@ msgid "Enable Scripts"
 msgstr "開啟腳本"
 
 msgid "Enable embedded plugin objects."
-msgstr "Enable embedded plugin objects."
+msgstr "開啟附加元件。"
 
 msgid "Enable embedded scripting languages."
-msgstr "Enable embedded scripting languages."
+msgstr "開啟附加腳本語言。"
 
 msgid "Enables private browsing mode"
-msgstr "Enables private browsing mode"
+msgstr "開啟私密瀏覽模式"
 
 msgid "Enables special extensions that help developers"
-msgstr "Enables special extensions that help developers"
+msgstr "開啟協助開法者的特殊元件"
 
 msgid "Encoding"
-msgstr "Encoding"
+msgstr "編碼"
 
 msgid "Enforce 96 DPI"
-msgstr "Enforce 96 DPI"
+msgstr "強制 96 DPI"
 
 msgid "Enforce a resolution of 96 DPI"
-msgstr "Enforce a resolution of 96 DPI"
+msgstr "強制 96 DPI的解析度"
 
 msgid "Fantasy Font Family"
 msgstr "Fantasy Font Family"
 
 msgid "Full content zoom"
-msgstr "Full content zoom"
+msgstr "完整內容縮放"
 
 msgid "Ignore _Grammar"
-msgstr "Ignore _Grammar"
+msgstr "忽略語法（_G）"
 
 msgid "Input _Methods"
-msgstr "Input _Methods"
+msgstr "輸入法（_M）"
 
 msgid "Inspect _Element"
-msgstr "Inspect _Element"
+msgstr "檢查元素（_E）"
 
 msgid "Inspected URI"
 msgstr "Inspected URI"
